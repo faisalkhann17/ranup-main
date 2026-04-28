@@ -7,6 +7,7 @@ import Footer from "@/components/Footer";
 import ProductsSection from "@/components/ProductSection";
 import WhatsAppButton from "@/components/WhatsAppButton";
 
+
 export default function Home() {
   return (
     <main className="min-h-screen">
